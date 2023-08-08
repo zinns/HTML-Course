@@ -24,19 +24,15 @@
 
 # Course-HTML
 
-1. In this repository you will find a folder called "exercises-HTML", inside this folder you will find listed folders, in each one of them perform the exercises that are inside the listed folders.
+1. In this repository you will find a folder called "exercises-HTML", inside this folder you will find numbered folders, in each one of them perform the exercises following the instructions found inside each folder.
 
-2. Create a different branch for each of the exercises based on `develop-[name]`:
+2. Clone the repository directly in the terminal.
 
-    > example: `andres/html/01` -> `name/html/01`.
+3. Create a branch out of `develop`, from **GitHub**.
 
-3. Save, add, comment and upload changes to **GitHub**.
+    > Example: `develop-andres` -> `develop-[name]`.
 
-4. Create a `PR` pointing to `develop-[name]` with title.
-
-    > Example: `Exercise HTML text finished` -> `Exercise HTML [exercise] finished`.
-
-5. Follow up the `PR` (updates, comments, changes).
+4. Follow the instructions inside the folders.
 
 ---
 
