@@ -5,20 +5,20 @@
 
 ## HTML-Course
 
-| Number | |Topics |
-| ------ | ------- |
-| 1 | | HTML |
-| 2 | | Text |
-| 3 | | List |
-| 4 | | Containers |
-| 5 | | Forms |
-| 6 | | Buttons |
-| 7 | | Inputs |
-| 8 | | Anchor Tag |
-| 9 | | Table |
-| 10 | | Image |
-| 11 | | Online styles |
-| 12 | | Header styles |
+| Number | Topics |
+| :------ | :------- |
+| 1 | HTML |
+| [2](./Course-HTML/ejercicios-HTML/01/) | [Tex](./Course-HTML/ejercicios-HTML/01/text/) |
+| [3](./ejercicios-HTML/02/) | [List](./ejercicios-HTML/02/list/) |
+| [4](./ejercicios-HTML/03/)| [Containers](./ejercicios-HTML/03/containers/) |
+| [5](./ejercicios-HTML/04/)| [Forms](./ejercicios-HTML/04/forms/) |
+| [6](./ejercicios-HTML/05/)| [Buttons](./ejercicios-HTML/05/buttons/) |
+| [7](./ejercicios-HTML/06/)| [Inputs](./ejercicios-HTML/06/inputs/) |
+| [8](./ejercicios-HTML/07/)| [Anchor Tag](./ejercicios-HTML/07/anchorTag/) |
+| [9](./ejercicios-HTML/08/)| [Table](./ejercicios-HTML/08/table/) |
+| [10](./ejercicios-HTML/09/) | [Image](./ejercicios-HTML/09/image/) |
+| [11]() | [Estilos en línea]() |
+| [12]() | [Estilos de cabecera]() |
 
 ---
 
@@ -40,32 +40,29 @@
 
 ---
 
-| Number | |Temas |
-| ------ | ------- |
-| 1 | | HTML |
-| 2 | | Texto |
-| 3 | | Lista |
-| 4 | | Contenedores |
-| 5 | | Formularios |
-| 6 | | Butones |
-| 7 | | Inputs |
-| 8 | | Anchor Tag |
-| 9 | | Tablas |
-| 10 | | Imagenes |
-| 11 | | Estilos en línea |
-| 12 | | Estilos de cabecera |
 # Curso-HTML
+
+| Numero | Temas |
+| :------ | :------- |
+| 1 | HTML |
+| [2](./Course-HTML/ejercicios-HTML/01/) | [Texto](./Course-HTML/ejercicios-HTML/01/text/) |
+| [3](./ejercicios-HTML/02/) | [Listas](./ejercicios-HTML/02/list/) |
+| [4](./ejercicios-HTML/03/)| [Contenedores](./ejercicios-HTML/03/containers/) |
+| [5](./ejercicios-HTML/04/)| [Formularios](./ejercicios-HTML/04/forms/) |
+| [6](./ejercicios-HTML/05/)| [Butones](./ejercicios-HTML/05/buttons/) |
+| [7](./ejercicios-HTML/06/)| [Inputs](./ejercicios-HTML/06/inputs/) |
+| [8](./ejercicios-HTML/07/)| [Anchor Tag](./ejercicios-HTML/07/anchorTag/) |
+| [9](./ejercicios-HTML/08/)| [Tablas](./ejercicios-HTML/08/table/) |
+| [10](./ejercicios-HTML/09/) | [Imagenes](./ejercicios-HTML/09/image/) |
+| [11]() | [Estilos en línea]() |
+| [12]() | [Estilos de cabecera]() |
 
 1. En este repositorio se encuentra una carpeta llamada "ejercicios-HTML", dentro de esta carpeta se encuentran carpetas enumeradas, en cada una de ellas realizar los ejercicios siguiendo las instrucciones que se encuentran dentro de cada carpeta.
 
-2. Crear una rama diferente para cada uno de los ejercicios basada en `develop-[nombre]`:
+2. Clonar el repositorio directamente en la terminal.
 
-     ejemplo: `andres/html/01` - `nombre/html/01`.
+3. Crear una rama que salga de `develop`, desde **GitHub**.
 
-3. Guardar, agregar, comentar y subir cambios a **GitHub**.
+    > ejemplo: `develop-andres` -> `develop-[nombre]`.
 
-4. Crear un `PR` apuntando a `develop-[nombre]` con título.
-
-     ejemplo: `Ejercicio HTML texto terminado` - `Ejercicio HTML [ejericio] terminado`.
-
-5. Dar seguimiento al `PR` (actualizaciones, comentarios, cambios).
+4. Seguir las instrucciones que se encuentran dentro de las carpetas.
