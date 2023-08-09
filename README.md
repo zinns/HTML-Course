@@ -9,7 +9,7 @@
 | Unit / Unidad  | Topic / Tema | Completed |
 | :------------: | :----------: | :-------: |
 | 1              |              ||
-| 2              |              ||
+| [2](./02/text.md)              | [Text/Texto](./02/text.md)             ||
 | 3              |              ||
 | 4              |              ||
 | 5              |              ||
