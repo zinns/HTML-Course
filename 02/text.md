@@ -2,15 +2,11 @@
 [Español](#instrucciones)
 
 
-# Instructions
+# Instructions-exercise-02
 
-1. Inside the folder named "02", create a file with extension "html" .
+1. Create HTML5 tags inside the **index.html** file.
 
-    > example: **index.html**
-
-2. Create HTML5 tags inside the **index.html** file.
-
-3. Within the `<body>` tag, create "text" tags and make a bibliography.
+2. Within the `<body>` tag, create "text" tags and make a bibliography.
 
 
 
@@ -22,13 +18,9 @@
 
  ---
 
-# Instrucciones
+# Instrucciones-ejercicio-02
 
-1. Dentro de la carpeta llamada "02", crear un archivo con extensión "html" .
-
-    > ejemplo: **index.html**
-
-2. Crear etiquetas de HTML5 dentro del archivo **index.html**.
+1. Crear etiquetas de HTML5 dentro del archivo **index.html**.
 
 3. Dentro de la eqiueta `<body>`, crear etiquetas de "texto" y realizar una bibliografía.
 
