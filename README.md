@@ -1,25 +1,25 @@
-![Alt text](zinns.png)
-
-[Inglés](#html-course)
+![zinns.io](zinns.png)
 
 [Español](#curso-html)
 
+[English](#html-course)
+
 ---
 
-| Unit / Unidad  | Topic / Tema | Completed |
-| :------------: | :----------: | :-------: |
-| 1              |              ||
-| 2              |              ||
-| 3              |              ||
-| 4              |              ||
-| 5              |              ||
-| 6              |              ||
-| 7              |              ||
-| 8              |              ||
-| 9              |              ||
-| 10             |              ||
-| 11             |              ||
-| 12             |              ||
+|      Unit / Unidad      |                  Topic / Tema                  | Completed |
+| :---------------------: | :--------------------------------------------: | :-------: |
+|            1            |                                                |           |
+|            2            |                                                |           |
+| [3](./03/containers.md) | [Containers/Contenedores](./03/containers.md) |           |
+|            4            |                                                |           |
+|            5            |                                                |           |
+|            6            |                                                |           |
+|            7            |                                                |           |
+|            8            |                                                |           |
+|            9            |                                                |           |
+|           10            |                                                |           |
+|           11            |                                                |           |
+|           12            |                                                |           |
 
 ---
 
@@ -49,7 +49,7 @@ Este repositorio contiene carpetas relacionadas con los temas que forman parte d
 
 ### Recordatorios
 
-- Debe de existir una rame llamada `develop-[name]` en caso contrario, por favor crearla. Recordar siempre empezar a trabajar desde esta rama.
+- Debe de existir una rama llamada `develop-[name]` en caso contrario, por favor crearla. Recordar siempre empezar a trabajar desde esta rama.
 
 - Nombre de las ramas siempre debe seguir las convenciones.
 
