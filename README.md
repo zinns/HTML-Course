@@ -49,7 +49,7 @@ Este repositorio contiene carpetas relacionadas con los temas que forman parte d
 
 ### Recordatorios
 
-- Debe de existir una rame llamada `develop-[name]` en caso contrario, por favor crearla. Recordar siempre empezar a trabajar desde esta rama.
+- Debe de existir una rama llamada `develop-[name]` en caso contrario, por favor crearla. Recordar siempre empezar a trabajar desde esta rama.
 
 - Nombre de las ramas siempre debe seguir las convenciones.
 
