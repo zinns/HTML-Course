@@ -1,49 +1,62 @@
 ![Alt text](zinns.png)
 
-[Inglés](#HTML-Course)
-[Español](#Curso-HTML)
+[Inglés](#html-course)
 
-| Number/Numbero | Topics/Temas |
-| :------------- | :----------- |
-| 1              |              |
-| 2              |              |
-| 3              |              |
-| 4              |              |
-| 5              |              |
-| 6              |              |
-| 7              |              |
-| 8              |              |
-| 9              |              |
-| 10             |              |
-| 11             |              |
-| 12             |              |
+[Español](#curso-html)
 
 ---
 
-# Course-HTML
-
-1. This repository contains folders related to the topics that are part of this section of the course.
-   Each folder contains specific instructions and corresponding exercise(s).
-
-2. Clone the repository directly in the terminal.
-
-3. Create a branch out of `develop`, from **GitHub**.
-
-   > Example: `develop-andres` -> `develop-[name]`.
-
-4. Follow the instructions inside the folders.
+| Unit / Unidad  | Topic / Tema | Completed |
+| :------------: | :----------: | :-------: |
+| 1              |              ||
+| 2              |              ||
+| 3              |              ||
+| 4              |              ||
+| 5              |              ||
+| 6              |              ||
+| 7              |              ||
+| 8              |              ||
+| 9              |              ||
+| 10             |              ||
+| 11             |              ||
+| 12             |              ||
 
 ---
 
-# Curso-HTML
+# HTML Course
 
-1. Este repositorio contiene carpetas relacionadas con los temas que forman parte de esta sección del curso.
-   Cada carpeta contiene sus instrucciones específicas y ejercicio(s) correspondientes.
+This repository contains folders related to the topics that are part of this section of the course. Each folder contains specific instructions and corresponding exercise(s).
 
-2. Clonar el repositorio directamente en la terminal.
+### Reminders
 
-3. Crear una rama que salga de `develop`, desde **GitHub**.
+- There should be a branch called `develop-[name]` if there is not, please create it. Remember always start to work from this branch.
 
-   > ejemplo: `develop-andres` -> `develop-[nombre]`.
+- Branch naming always has to be following the conventions.
 
-4. Seguir las instrucciones que se encuentran dentro de las carpetas.
+- Commits should always be meaningful.
+
+- PR's should always point to `develop-[name]`.
+
+- PR's should always have reviewers.
+
+- Once topic's exercise(s) is completed mark it as done in the table using -> ✅
+
+---
+
+# Curso HTML
+
+Este repositorio contiene carpetas relacionadas con los temas que forman parte de esta sección del curso. Cada carpeta contiene sus instrucciones específicas y ejercicio(s) correspondientes.
+
+### Recordatorios
+
+- Debe de existir una rame llamada `develop-[name]` en caso contrario, por favor crearla. Recordar siempre empezar a trabajar desde esta rama.
+
+- Nombre de las ramas siempre debe seguir las convenciones.
+
+- Commits siempre deben de ser informativos.
+
+- PR's siempre deben apuntar a `develop-[name]`.
+
+- PR's siempre debe de tener reviewers.
+
+- Una vez que los ejercicios del tema sean completados, marcar dentro de la tabla usando -> ✅
