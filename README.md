@@ -8,7 +8,7 @@
 
 | Unit / Unidad  | Topic / Tema | Completed |
 | :------------: | :----------: | :-------: |
-| 1              |              ||
+| [1](./01/intro.md)              |  [Introduction/Introduccion](./01/intro.md)            ||
 | 2              |              ||
 | 3              |              ||
 | 4              |              ||
