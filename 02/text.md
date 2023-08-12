@@ -30,6 +30,13 @@
 
 2. Dentro de la eqiueta `<body>`, crear etiquetas de "texto" y realizar una bibliografía personal.
 
+    > ejemplo:
+                - Nombre
+                - Edad
+                - Fecha de nacimiento
+                - Nacionalidad
+                - Descripción
+
 3. En otra rama, hacer una bibliografía de cual quier celebrida.
 
 4. Repetir el paso 3 al menos 3 o 4 veces más.
