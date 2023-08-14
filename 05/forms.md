@@ -1,4 +1,7 @@
+![Alt text](zinns.png)
+
 [Inglés](#Instructions-exercise-05)
+
 [Español](#Instrucciones-ejercicio-05)
 
 # Instructions-exercise-05
@@ -17,6 +20,16 @@
    - Country
    - Remarks (this field should have a text area)
 
+3. In other branches make forms as shown in the following images.
+
+![Alt text](form-facebook.jpeg)
+
+![Alt text](form-twitter.jpeg)
+
+![Alt text](form-insta.png)
+
+![Alt text](form-tiktok.png)
+
 # Reminder
 
 - A branch of `develop-[name]` must be output, as we have done in previous exercises.
@@ -29,7 +42,7 @@
 
 1. Crear etiquetas de HTML5, dentro del archivo **index.html**.
 
-2. Dentro de la etiqueta `<body>`, crear un formulario con los datos que se dejaran enseguida.
+2. Dentro de la etiqueta `<body>`, crear un formulario con los campos que se dejaran enseguida.
 
    - Nombre
    - Apellido
@@ -40,6 +53,16 @@
    - Ocupación
    - País
    - Observaciones (este campo debera tener un área de texto)
+
+3. En otras ramas realizar formularios como se muestran en la siguientes imagenes.
+
+![Alt text](form-facebook.jpeg)
+
+![Alt text](form-twitter.jpeg)
+
+![Alt text](form-insta.png)
+
+![Alt text](form-tiktok.png)
 
 # Recordatorio
 
