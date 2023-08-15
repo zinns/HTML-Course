@@ -1,8 +1,8 @@
-[Español](#Instrucciones-ejercicio-05)
+[Español](#Instrucciones)
 
-[English](#Instructions-exercise-05)
+[English](#Instructions)
 
-# Instructions-exercise-05
+# Instructions
 
 1. Create the basic structure HTML tags within the **index.html** file.
 
@@ -42,11 +42,13 @@
 
 ---
 
-# Instrucciones-ejercicio-05
+# Instrucciones
 
 1. Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**.
 
-2. Dentro de la etiqueta `<body>`, crear un formulario con los campos que se dejaran enseguida.
+2. Dentro de la etiqueta `<body>`, crear etiquetas de contenedores.
+
+3. Crear un formulario con los campos que se dejaran enseguida.
 
    - Nombre
    - Apellido
@@ -58,21 +60,9 @@
    - País
    - Observaciones (este campo debera tener un área de texto)
 
-3. En otra rama clonar el formulario que se muestran en la siguiente imagen.
+3. En otra rama repetir el ejercicio 2 en formulario.
 
-![Alt text](form-facebook.jpeg)
-
-4. En otra rama clonar el formulario que se muestran en la siguiente imagen.
-
-![Alt text](form-twitter.jpeg)
-
-5. En otra rama clonar el formulario que se muestran en la siguiente imagen.
-
-![Alt text](form-insta.png)
-
-6. En otra rama clonar el formulario que se muestran en la siguiente imagen.
-
-![Alt text](form-tiktok.png)
+4. En otra rama repetir el ejercicio 3 en formulario..
 
 # Recordatorio
 
