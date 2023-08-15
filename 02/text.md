@@ -2,9 +2,9 @@
 
 [English](#instruction)
 
-# Instructions-exercise-02
+# Instructions
 
-1.  Create HTML tags inside the **index.html** file.
+1.  Create the basic structure HTML tags within the **index.html** file.
 
 2.  Within the `<body>` tag, create "text" tags and make a autobiography.
 
@@ -30,11 +30,11 @@
 
 ---
 
-# Instrucciones-ejercicio-02
+# Instrucciones
 
-1.  Crear etiquetas de HTML dentro del archivo **index.html**.
+1.  Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**.
 
-2.  Dentro de la eqiueta `<body>`, crear etiquetas de "texto" y realizar una autobiagrafía personal.
+2.  Dentro de la etiqueta ``, crear etiquetas de "texto" y realizar una autobiografía personal.
 
     > ejemplo:
 
@@ -44,7 +44,7 @@
                 - Nacionalidad
                 - Descripción
 
-3.  En otra rama, hacer una biografía de cual quier celebridad.
+3.  En otra rama, hacer una biografía de cualquier celebridad.
 
 4.  Repetir el paso 3 al menos 3 o 4 veces más.
 
