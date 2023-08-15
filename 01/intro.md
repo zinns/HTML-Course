@@ -1,10 +1,10 @@
-[Español](#Instructiones-ejercicio-01)
+[Español](#Instruciones)
 
-[English](#Instructions-exercise-01)
+[English](#Instructions)
 
-# Instructions exercise 01
+# Instructions
 
-1. Create HTML tags inside the **index.html** file.
+1. Create the basic structure HTML tags within the **index.html** file.
 
 2. Within the `<body>` tag, summarize what was covered in the introduction to HTML topic.
 
@@ -44,15 +44,15 @@
 
 ---
 
-# Instructiones ejercicio 01
+# Instructiones
 
-1. Crear etiquetas de HTML dentro del archivo **index.html**
+1. Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**
 
 2. Dentro de la etiqueta `<body>`, hacer un resumen sobre lo que se vio en el tema de introducción a HTML.
 
 3. En otra rama, hacer un resumen sobre la terminal.
 
-   - Cuales son los comandos más utilizados.
+   - Cuáles son los comandos más utilizados.
 
    - Poner ejemplo y descripción del comando
 
@@ -60,9 +60,9 @@
 
    - Que es git.
 
-   - Para que sirve.
+   - Para qué sirve.
 
-   - Cuales son los comandos más utilizados.
+   - Cuáles son los comandos más utilizados.
 
    - Poner ejemplo y descripción de los comandos.
 
@@ -70,7 +70,7 @@
 
    - Que es GitHub.
 
-   - Para que sirve
+   - Para qué sirve.
 
    - Que es un `PR`.
 
