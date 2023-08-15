@@ -1,5 +1,6 @@
-[Inglés](#Instructions-exercise-04)
 [Español](#Instrucciones-ejercicio-04)
+
+[English](#Instructions-exercise-04)
 
 # Instructions-exercise-04
 
@@ -9,7 +10,7 @@
 
 3. Create a `<ul>` or `<ol>` tag, inside of them create labels `<li>` and list the ingredients contained in that food.
 
-4. Create at least 4 or 5 foods.
+4. Create at least 4 or 5 foods in different branches.
 
 # Reminders
 
@@ -27,7 +28,7 @@
 
 3. Crear una etiqueta `<ul>` u `<ol>`, dentro de ellas crear etiquetas `<li>` y hacer un listado de los ingredientes que contiene ese alimento.
 
-4. Crear al menos 4 o 5 alimentos.
+4. Crear al menos 4 o 5 alimentos en diferentes ramas.
 
 # Recordatorio
 
