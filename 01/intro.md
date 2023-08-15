@@ -1,4 +1,4 @@
-[Español](#Instruciones)
+[Español](#Instrucciones)
 
 [English](#Instructions)
 
@@ -44,7 +44,7 @@
 
 ---
 
-# Instructiones
+# Instrucciones
 
 1. Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**
 
