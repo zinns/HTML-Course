@@ -1,6 +1,6 @@
-[Español](#instrucciones)
+[Español](#Instrucciones)
 
-[English](#instruction)
+[English](#Instructions)
 
 # Instructions
 
@@ -34,7 +34,7 @@
 
 1.  Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**.
 
-2.  Dentro de la etiqueta ``, crear etiquetas de "texto" y realizar una autobiografía personal.
+2.  Dentro de la etiqueta `<body>`, crear etiquetas de "texto" y realizar una autobiografía.
 
     > ejemplo:
 
