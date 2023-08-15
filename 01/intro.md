@@ -1,10 +1,10 @@
-[Inglés](#Instructions-exercise-01)
-
 [Español](#Instructiones-ejercicio-01)
+
+[English](#Instructions-exercise-01)
 
 # Instructions exercise 01
 
-1. Create HTML5 tags inside the **index.html** file.
+1. Create HTML tags inside the **index.html** file.
 
 2. Within the `<body>` tag, summarize what was covered in the introduction to HTML topic.
 
