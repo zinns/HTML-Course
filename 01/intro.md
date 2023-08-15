@@ -10,29 +10,29 @@
 
 3. In another branch, make a summary about the terminal.
 
-   - What are the most used commands.
+   - What are the most used commands?.
 
    - Give an example and description of the command.
 
 4. In another branch, make a summary of git.
 
-   - What is git.
+   - What is git?.
 
-   - What is git for.
+   - What is git for?.
 
-   - What are the most used commands.
+   - What are the most used commands?.
 
    - Give an example and description of the commands.
 
 5. In another branch, make a summary of GitHub.
 
-   - What is GitHub.
+   - What is GitHub?.
 
-   - What is GitHub for.
+   - What is GitHub for?.
 
-   - What is a `PR`.
+   - What is a `PR`?.
 
-   - What is a `merge`.
+   - What is a `merge`?.
 
 # Reminders
 
@@ -52,29 +52,29 @@
 
 3. En otra rama, hacer un resumen sobre la terminal.
 
-   - Cuáles son los comandos más utilizados.
+   - Cuáles son los comandos más utilizados?.
 
    - Poner ejemplo y descripción del comando
 
 4. En otra rama, hacer un resumen de git.
 
-   - Que es git.
+   - Qué es git?.
 
-   - Para qué sirve.
+   - Para qué sirve?.
 
-   - Cuáles son los comandos más utilizados.
+   - Cuáles son los comandos más utilizados?.
 
    - Poner ejemplo y descripción de los comandos.
 
 5. En rotra rama, hacer un resumen de GitHub.
 
-   - Que es GitHub.
+   - Qué es GitHub?.
 
-   - Para qué sirve.
+   - Para qué sirve?.
 
-   - Que es un `PR`.
+   - Qué es un `PR`?.
 
-   - Que es un `merge`.
+   - Qué es un `merge`?.
 
 # Recordatorios
 
