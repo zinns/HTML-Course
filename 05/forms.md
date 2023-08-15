@@ -4,7 +4,7 @@
 
 # Instructions-exercise-05
 
-1. Create HTML5 tags, inside the **index.html** file.
+1. Create the basic structure HTML tags within the **index.html** file.
 
 2. Inside the `<body>` tag, create a form with the following data.
 
@@ -18,19 +18,19 @@
    - Country
    - Remarks (this field should have a text area)
 
-3. In another branch clone the forms shown in the following image.
+3. In another branch clone the form shown in the following image.
 
 ![Alt text](form-facebook.jpeg)
 
-4. In another branch clone the forms shown in the following image.
+4. In another branch clone the form shown in the following image.
 
 ![Alt text](form-twitter.jpeg)
 
-5. In another branch clone the forms shown in the following image.
+5. In another branch clone the form shown in the following image.
 
 ![Alt text](form-insta.png)
 
-6. In another branch clone the forms shown in the following image.
+6. In another branch clone the form shown in the following image.
 
 ![Alt text](form-tiktok.png)
 
@@ -44,7 +44,7 @@
 
 # Instrucciones-ejercicio-05
 
-1. Crear etiquetas de HTML5, dentro del archivo **index.html**.
+1. Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**.
 
 2. Dentro de la etiqueta `<body>`, crear un formulario con los campos que se dejaran enseguida.
 
@@ -58,19 +58,19 @@
    - País
    - Observaciones (este campo debera tener un área de texto)
 
-3. En otra rama clonar el formularios que se muestran en la siguiente imagen.
+3. En otra rama clonar el formulario que se muestran en la siguiente imagen.
 
 ![Alt text](form-facebook.jpeg)
 
-4. En otra rama clonar el formularios que se muestran en la siguiente imagen.
+4. En otra rama clonar el formulario que se muestran en la siguiente imagen.
 
 ![Alt text](form-twitter.jpeg)
 
-5. En otra rama clonar el formularios que se muestran en la siguiente imagen.
+5. En otra rama clonar el formulario que se muestran en la siguiente imagen.
 
 ![Alt text](form-insta.png)
 
-6. En otra rama clonar el formularios que se muestran en la siguiente imagen.
+6. En otra rama clonar el formulario que se muestran en la siguiente imagen.
 
 ![Alt text](form-tiktok.png)
 
