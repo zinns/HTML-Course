@@ -1,8 +1,6 @@
-![Alt text](zinns.png)
-
-[Inglés](#Instructions-exercise-05)
-
 [Español](#Instrucciones-ejercicio-05)
+
+[English](#Instructions-exercise-05)
 
 # Instructions-exercise-05
 
@@ -20,13 +18,19 @@
    - Country
    - Remarks (this field should have a text area)
 
-3. In other branches make forms as shown in the following images.
+3. In another branch clone the forms shown in the following image.
 
 ![Alt text](form-facebook.jpeg)
 
+4. In another branch clone the forms shown in the following image.
+
 ![Alt text](form-twitter.jpeg)
 
+5. In another branch clone the forms shown in the following image.
+
 ![Alt text](form-insta.png)
+
+6. In another branch clone the forms shown in the following image.
 
 ![Alt text](form-tiktok.png)
 
@@ -54,13 +58,19 @@
    - País
    - Observaciones (este campo debera tener un área de texto)
 
-3. En otras ramas realizar formularios como se muestran en la siguientes imagenes.
+3. En otra rama clonar el formularios que se muestran en la siguiente imagen.
 
 ![Alt text](form-facebook.jpeg)
 
+4. En otra rama clonar el formularios que se muestran en la siguiente imagen.
+
 ![Alt text](form-twitter.jpeg)
 
+5. En otra rama clonar el formularios que se muestran en la siguiente imagen.
+
 ![Alt text](form-insta.png)
+
+6. En otra rama clonar el formularios que se muestran en la siguiente imagen.
 
 ![Alt text](form-tiktok.png)
 
