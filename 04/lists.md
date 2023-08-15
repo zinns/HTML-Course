@@ -6,9 +6,9 @@
 
 1. Create HTML5 tags inside the **index.html** file.
 
-2. Inside the `<body>` tag, create a `<p>` tag, and inside it put the name of a saucer.
+2. Inside the `<body>` tag create container tags.
 
-3. Create a `<ul>` or `<ol>` tag, inside of them create labels `<li>` and list the ingredients contained in that food.
+3. Inside the container tags, create a `<p>` tag, and inside it put the name of a saucer.
 
 4. Create at least 4 or 5 foods in different branches.
 
@@ -24,11 +24,13 @@
 
 1. Crear etiquetas de HTML5 dentro del archivo **index.html**
 
-2. Dentro de la etiqueta `<body>`, crear una etiqueta `<p>`, y dentro de ella poner el nombre de un platillo.
+2. Dentro de la etiqueta `<body>` crear etiquetas de contenedores.
 
-3. Crear una etiqueta `<ul>` u `<ol>`, dentro de ellas crear etiquetas `<li>` y hacer un listado de los ingredientes que contiene ese alimento.
+3. Dentro de las etiquetas de condetenodores, crear una etiqueta `<p>`, y dentro de ella poner el nombre de un platillo.
 
-4. Crear al menos 4 o 5 alimentos en diferentes ramas.
+4. Crear una etiqueta `<ul>` u `<ol>`, dentro de ellas crear etiquetas `<li>` y hacer un listado de los ingredientes que contiene ese alimento.
+
+5. Crear al menos 4 o 5 alimentos en diferentes ramas.
 
 # Recordatorio
 
