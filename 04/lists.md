@@ -1,12 +1,12 @@
-[Español](#Instrucciones-ejercicio-04)
+[Español](#Instrucciones)
 
-[English](#Instructions-exercise-04)
+[English](#Instructions)
 
-# Instructions-exercise-04
+# Instructions
 
 1. Create HTML5 tags inside the **index.html** file.
 
-2. Inside the `<body>` tag, create a `<p>` tag, and inside it put a food.
+2. Inside the `<body>` tag, create a `<p>` tag, and inside it put the name of a saucer.
 
 3. Create a `<ul>` or `<ol>` tag, inside of them create labels `<li>` and list the ingredients contained in that food.
 
@@ -20,11 +20,11 @@
 
 ---
 
-# Instrucciones-ejercicio-04
+# Instrucciones
 
 1. Crear etiquetas de HTML5 dentro del archivo **index.html**
 
-2. Dentro de la etiqueta `<body>`, crear una etiqueta `<p>`, y dentro de ella poner un alimento.
+2. Dentro de la etiqueta `<body>`, crear una etiqueta `<p>`, y dentro de ella poner el nombre de un platillo.
 
 3. Crear una etiqueta `<ul>` u `<ol>`, dentro de ellas crear etiquetas `<li>` y hacer un listado de los ingredientes que contiene ese alimento.
 
