@@ -1,14 +1,14 @@
-![Alt text](zinns.png)
-
-[Inglés](#html-course)
+![zinns.io](zinns.png)
 
 [Español](#curso-html)
+
+[English](#html-course)
 
 ---
 
 |   Unit / Unidad    |                Topic / Tema                | Completed |
 | :----------------: | :----------------------------------------: | :-------: |
-| [1](./01/intro.md) | [Introduction/Introduccion](./01/intro.md) |           |
+| [1](./01/intro.md) | [Introduction/Introducción](./01/intro.md) |           |
 |         2          |                                            |           |
 |         3          |                                            |           |
 |         4          |                                            |           |
