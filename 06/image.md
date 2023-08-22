@@ -1,27 +1,20 @@
 [Español](#Instrucciones)
+
 [English](#Instructions)
+
+---
 
 # Instructions
 
-1. Create the basic structure HTML tags inside the **index.html** file.
+1. Create the basic HTML structure inside the `index.html` file.
 
-2. Within the `<body>` tag, create container tags.
+2. Inside the `html` file recreate the content inside [games-description](https://github.com/zinns/juegos-descripcion) repo.
 
-3. Clone the exercise from the games-description repository.
-
-4. The information fields will be tags with `<li>`.
-
-fields.
-
-    - Name
-    - Age
-    - E-mail address
-
-6. Repeat the exercise at least 3 or 4 times on different branches.
+3. The content should be more structure, include containers, text, lists and form tags.
 
 # Reminder
 
-- You must output a branch of `develop-[name]`, as we have done in previous exercises.
+- You must output a branch of `develop-[name]`, as it has been done in previous exercises.
 
 - Branch names must always comply with the following conventions
 
@@ -29,24 +22,14 @@ fields.
 
 # Instrucciones
 
-1. Crear las etiquetas de HTML de estructura básica dentro del archivo **index.html**.
+1. Crear la estructura básica de HTML dentro del archivo `index.html`.
 
-2. Dentro de la etiqueta `<body>`, crear etiquetas de contenedores.
+2. Dentro del archivo `html` recrear el contenido que se encuentra en el repo [games-description](https://github.com/zinns/juegos-descripcion).
 
-3. Clonar el ejercicio del repositorio juegos-descripción.
-
-4. Los campos de información serán con etiquetas de `<li>`.
-
-5. Crear un formulario de registro con los siguientes campos.
-
-   - Nombre
-   - Edad
-   - Correo
-
-6. Repetir el ejercicio al menos 3 o 4 veces en diferentes ramas.
+3. El contenido debe estar más estructurado, incluir etiquetas de contenedores, texto, listas y formularios.
 
 # Recordatorio
 
-- Debe salir una rama de `develop-[nombre]`, como lo hemos hecho en ejercicios anteriores
+- Debe salir una rama de `develop-[nombre]`, como se ha hecho en ejercicios anteriores
 
 - Nombre de las ramas siempre debe cumplir con las convenciones
