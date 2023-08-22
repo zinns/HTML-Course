@@ -1,8 +1,8 @@
-![Alt text](zinns.png)
-
-[Inglés](#html-course)
+![zinns.io](zinns.png)
 
 [Español](#curso-html)
+
+[English](#html-course)
 
 ---
 
