@@ -9,12 +9,12 @@
 |   Unit / Unidad         |        Topic / Tema                           | Completed |
 | :---------------------: | :-------------------------------------------: | :-------: |
 | [1](./01/intro.md)      | [Introduction/Introducción](./01/intro.md)    |           |
-| [2](./02/text.md)       | [Text/Texto](./02/text.md)                    |           |
+| [2](./02/texts.md)      | [Texts/Textos](./02/text.md)                  |           |
 | [3](./03/containers.md) | [Containers/Contenedores](./03/containers.md) |           |
 | [4](./04/lists.md)      | [Lists/Listas](./04/lists.md)                 |           |
 | [5](./05/forms.md)      | [Forms/Formularios](./05/forms.md)            |           |
-| [6](./06/image.md)      | [Images/Imagenes](./06/image.md)              |           |
-|         7               |                                               |           |
+| [6](./06/images.md)     | [Images/Imagenes](./06/images.md)             |           |
+| [7](./07/buttons.md)    | [Buttons/Botones](./07/buttons.md)            |           |
 |         8               |                                               |           |
 |         9               |                                               |           |
 |        10               |                                               |           |
