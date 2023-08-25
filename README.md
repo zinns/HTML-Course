@@ -6,10 +6,10 @@
 
 ---
 
-|   Unit / Unidad    |                Topic / Tema                | Completed |
+|   Unit / Unidad    |        Topic / Tema                        | Completed |
 | :----------------: | :----------------------------------------: | :-------: |
 | [1](./01/intro.md) | [Introduction/Introducción](./01/intro.md) |           |
-|         2          |                                            |           |
+| [2](./02/text.md)  | [Text/Texto](./02/text.md)                 |           |
 |         3          |                                            |           |
 |         4          |                                            |           |
 |         5          |                                            |           |
@@ -17,9 +17,9 @@
 |         7          |                                            |           |
 |         8          |                                            |           |
 |         9          |                                            |           |
-|         10         |                                            |           |
-|         11         |                                            |           |
-|         12         |                                            |           |
+|        10          |                                            |           |
+|        11          |                                            |           |
+|        12          |                                            |           |
 
 ---
 
