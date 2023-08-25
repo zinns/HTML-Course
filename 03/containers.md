@@ -24,7 +24,11 @@
 
 # Instrucciones
 
+<<<<<<< HEAD
 1. Crear la estructura básica de HTML dentro del archivo `index.html`.
+=======
+1. Crear estructura básica de HTML dentro del archivo `index.html`.
+>>>>>>> 40be491e11d131a37542b83f3e86fa9b080e8fb4
 
 2. Buscar la letra de una canción.
 
