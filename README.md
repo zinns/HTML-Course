@@ -13,7 +13,7 @@
 | [3](./03/containers.md) | [Containers/Contenedores](./03/containers.md) |           |
 | [4](./04/lists.md)      | [Lists/Listas](./04/lists.md)                 |           |
 | [5](./05/forms.md)      | [Forms/Formularios](./05/forms.md)            |           |
-|         6               |                                               |           |
+| [6](./06/image.md)      | [Images/Imagenes](./06/image.md)              |           |
 |         7               |                                               |           |
 |         8               |                                               |           |
 |         9               |                                               |           |
