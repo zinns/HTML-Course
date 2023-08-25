@@ -6,20 +6,20 @@
 
 ---
 
-|   Unit / Unidad    |         Topic / Tema          | Completed |
-| :----------------: | :---------------------------: | :-------: |
-|         1          |                               |           |
-|         2          |                               |           |
-|         3          |                               |           |
-| [4](./04/lists.md) | [Lists/Listas](./04/lists.md) |           |
-|         5          |                               |           |
-|         6          |                               |           |
-|         7          |                               |           |
-|         8          |                               |           |
-|         9          |                               |           |
-|         10         |                               |           |
-|         11         |                               |           |
-|         12         |                               |           |
+|   Unit / Unidad         |        Topic / Tema                           | Completed |
+| :---------------------: | :-------------------------------------------: | :-------: |
+| [1](./01/intro.md)      | [Introduction/Introducción](./01/intro.md)    |           |
+| [2](./02/text.md)       | [Text/Texto](./02/text.md)                    |           |
+| [3](./03/containers.md) | [Containers/Contenedores](./03/containers.md) |           |
+| [4](./04/lists.md)      | [Lists/Listas](./04/lists.md)                 |           |
+|         5               |                                               |           |
+|         6               |                                               |           |
+|         7               |                                               |           |
+|         8               |                                               |           |
+|         9               |                                               |           |
+|        10               |                                               |           |
+|        11               |                                               |           |
+|        12               |                                               |           |
 
 ---
 
