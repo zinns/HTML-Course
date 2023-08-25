@@ -12,7 +12,7 @@
 | [2](./02/text.md)       | [Text/Texto](./02/text.md)                    |           |
 | [3](./03/containers.md) | [Containers/Contenedores](./03/containers.md) |           |
 | [4](./04/lists.md)      | [Lists/Listas](./04/lists.md)                 |           |
-|         5               |                                               |           |
+| [5](./05/forms.md)      | [Forms/Formularios](./05/forms.md)            |           |
 |         6               |                                               |           |
 |         7               |                                               |           |
 |         8               |                                               |           |
