@@ -15,7 +15,7 @@
 | [5](./05/forms.md)      | [Forms/Formularios](./05/forms.md)            |           |
 | [6](./06/images.md)     | [Images/Imagenes](./06/images.md)             |           |
 | [7](./07/buttons.md)    | [Buttons/Botones](./07/buttons.md)            |           |
-|         8               |                                               |           |
+| [8](./08/links.md)      | [Links/Enlaces](./08/links.md)                |           |
 |         9               |                                               |           |
 |        10               |                                               |           |
 |        11               |                                               |           |
