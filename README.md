@@ -16,7 +16,7 @@
 | [6](./06/images.md)     | [Images/Imagenes](./06/images.md)             |           |
 | [7](./07/buttons.md)    | [Buttons/Botones](./07/buttons.md)            |           |
 | [8](./08/links.md)      | [Links/Enlaces](./08/links.md)                |           |
-|         9               |                                               |           |
+| [9](./09/tables.md)     | [Tables/Tablas](./09/tables.md)               |           |
 |        10               |                                               |           |
 |        11               |                                               |           |
 |        12               |                                               |           |
