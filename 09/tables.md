@@ -8,7 +8,7 @@
 
 1. Create the basic HTML structure inside the `index.html` file.
 
-2. Inside the `html` file recreate the table inside **assets** folder.
+2. Inside the `html` file recreate the table inside `assets`` folder.
 
 > example: [Table](./assets/example/tables.png)
 
@@ -28,7 +28,7 @@
 
 1. Crear la estructura básica de HTML dentro del archivo `index.html`.
 
-2. Dentro del archivo `html` recrear la table que se encuentra dentro de la carpeta **assets**.
+2. Dentro del archivo `html` recrear la tabla que se encuentra dentro de la carpeta `assets``.
 
 > ejemplo: [Tabla](./assets/example/tables.png)
 
