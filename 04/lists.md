@@ -30,7 +30,7 @@
 
 2. Dentro de la etiqueta `<body>` crear etiquetas de contenedores.
 
-3. Dentro de las etiquetas de condetenodores, crear una etiqueta `<p>`, y dentro de ella poner el nombre de un platillo.
+3. Dentro de las etiquetas de contenodores, crear una etiqueta `<p>`, y dentro de ella poner el nombre de un platillo.
 
 4. Crear una lista con los ingredientes y otra lista con los pasos para cocinar el platillo.
 
