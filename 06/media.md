@@ -8,7 +8,7 @@
 
 1. Create the basic HTML structure inside the `index.html` file.
 
-2. Inside the `html` file recreate the content inside [games-description](https://github.com/zinns/juegos-descripcion) repo.
+2. Inside the `html` file recreate the example ![example](assets/example.png).
 
 3. The content should be more structure, include containers, text, lists and form tags.
 
@@ -24,7 +24,7 @@
 
 1. Crear la estructura básica de HTML dentro del archivo `index.html`.
 
-2. Dentro del archivo `html` recrear el contenido que se encuentra en el repo [games-description](https://github.com/zinns/juegos-descripcion).
+2. Dentro del archivo `html` recrear el ejemplo ![example](assets/example.png).
 
 3. El contenido debe estar más estructurado, incluir etiquetas de contenedores, texto, listas y formularios.
 
