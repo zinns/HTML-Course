@@ -14,12 +14,8 @@
 | [4](./04/lists.md)      | [Lists/Listas](./04/lists.md)                 |           |
 | [5](./05/forms.md)      | [Forms/Formularios](./05/forms.md)            |           |
 | [6](./06/media.md)      | [Media](./06/media.md)                        |           |
-| [7](./07/buttons.md)    | [Buttons/Botones](./07/buttons.md)            |           |
-| [8](./08/links.md)      | [Links/Enlaces](./08/links.md)                |           |
-| [9](./09/tables.md)     | [Tables/Tablas](./09/tables.md)               |           |
-|        10               |                                               |           |
-|        11               |                                               |           |
-|        12               |                                               |           |
+| [7](./07/links.md)      | [Links/Enlaces](./07/links.md)                |           |
+| [8](./08/tables.md)     | [Tables/Tablas](./08/tables.md)               |           |
 
 ---
 
